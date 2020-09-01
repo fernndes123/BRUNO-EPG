@@ -72,20 +72,16 @@
     <display-name lang="pt">PREMIE CLUBE  SD</display-name>
     <url>http://www.meuguia.tv</url>
   </channel>
-  <channel id="EI PLUIS 1 HD">
-    <display-name lang="pt">EI PLUIS 1 HD</display-name>
+  <channel id="GLOBO MINAS">
+    <display-name lang="pt">GLOBO MINAS</display-name>
     <url>http://www.meuguia.tv</url>
   </channel>
-  <channel id="EI PLUIS 2 HD">
-    <display-name lang="pt">EI PLUIS 2 HD</display-name>
+  <channel id="GLOBO SP">
+    <display-name lang="pt">GLOBO SP</display-name>
     <url>http://www.meuguia.tv</url>
   </channel>
-  <channel id="COMBATE">
-    <display-name lang="pt">COMBATE</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="BANDE SPORTS">
-    <display-name lang="pt">BANDE SPORTS</display-name>
+  <channel id="GLOBO RJ">
+    <display-name lang="pt">GLOBO RJ</display-name>
     <url>http://www.meuguia.tv</url>
   </channel>
   <programme start="20200901180000 -0300" stop="20200901200000 -0300" channel="ESPN BRASIL  HD">
@@ -136,16 +132,10 @@
   <programme start="20200901213000 -0300" stop="20200902000000 -0300" channel="ESPN1  SD">
     <title lang="pt">NBA: Utah Jazz x Denver Nuggets - Ao Vivo</title>
   </programme>
-  <programme start="20200901180000 -0300" stop="20200901190000 -0300" channel="ESPN2  HD">
-    <title lang="pt">Tênis: US Open: Primeira Rodada - Ao Vivo</title>
-  </programme>
   <programme start="20200901190000 -0300" stop="20200901200000 -0300" channel="ESPN2  HD">
     <title lang="pt">Pelas Quadras do US Open - Ao Vivo</title>
   </programme>
   <programme start="20200901200000 -0300" stop="20200902010000 -0300" channel="ESPN2  HD">
-    <title lang="pt">Tênis: US Open: Primeira Rodada - Ao Vivo</title>
-  </programme>
-  <programme start="20200901180000 -0300" stop="20200901190000 -0300" channel="ESPN2  SD">
     <title lang="pt">Tênis: US Open: Primeira Rodada - Ao Vivo</title>
   </programme>
   <programme start="20200901190000 -0300" stop="20200901200000 -0300" channel="ESPN2  SD">
@@ -178,9 +168,6 @@
   <programme start="20200901230000 -0300" stop="20200902014500 -0300" channel="FOX SPORTS  SD">
     <title lang="pt">Fox Sports Rádio</title>
   </programme>
-  <programme start="20200901174500 -0300" stop="20200901184500 -0300" channel="FOX SPORTS 2 HD">
-    <title lang="pt">FOX Nitro</title>
-  </programme>
   <programme start="20200901184500 -0300" stop="20200901193500 -0300" channel="FOX SPORTS 2 HD">
     <title lang="pt">WWE NXT</title>
   </programme>
@@ -198,9 +185,6 @@
   </programme>
   <programme start="20200901231500 -0300" stop="20200902000000 -0300" channel="FOX SPORTS 2 HD">
     <title lang="pt">Comenta Quem Sabe</title>
-  </programme>
-  <programme start="20200901174500 -0300" stop="20200901184500 -0300" channel="FOX SPORTS 2  SD">
-    <title lang="pt">FOX Nitro</title>
   </programme>
   <programme start="20200901184500 -0300" stop="20200901193500 -0300" channel="FOX SPORTS 2  SD">
     <title lang="pt">WWE NXT</title>
@@ -220,9 +204,6 @@
   <programme start="20200901231500 -0300" stop="20200902000000 -0300" channel="FOX SPORTS 2  SD">
     <title lang="pt">Comenta Quem Sabe</title>
   </programme>
-  <programme start="20200901174500 -0300" stop="20200901185500 -0300" channel="SPORTSTV  HD">
-    <title lang="pt">Tá na Área - Ao Vivo</title>
-  </programme>
   <programme start="20200901185500 -0300" stop="20200901211500 -0300" channel="SPORTSTV  HD">
     <title lang="pt">Paraná x Ponte Preta - Ao Vivo</title>
   </programme>
@@ -231,9 +212,6 @@
   </programme>
   <programme start="20200901233000 -0300" stop="20200902010000 -0300" channel="SPORTSTV  HD">
     <title lang="pt">Troca de Passes - Ao Vivo</title>
-  </programme>
-  <programme start="20200901174500 -0300" stop="20200901185500 -0300" channel="SPORTSTV  SD">
-    <title lang="pt">Tá na Área - Ao Vivo</title>
   </programme>
   <programme start="20200901185500 -0300" stop="20200901211500 -0300" channel="SPORTSTV  SD">
     <title lang="pt">Paraná x Ponte Preta - Ao Vivo</title>
@@ -280,9 +258,6 @@
   <programme start="20200901220000 -0300" stop="20200902000000 -0300" channel="SPORTSTV3  SD">
     <title lang="pt">US Open - Ao Vivo</title>
   </programme>
-  <programme start="20200901164000 -0300" stop="20200901190000 -0300" channel="PREMIE CLUBE HD">
-    <title lang="pt">Botafogo SP x Cuiabá - Ao Vivo</title>
-  </programme>
   <programme start="20200901190000 -0300" stop="20200901201000 -0300" channel="PREMIE CLUBE HD">
     <title lang="pt">Baú do Esporte</title>
   </programme>
@@ -295,9 +270,6 @@
   <programme start="20200901230000 -0300" stop="20200902000000 -0300" channel="PREMIE CLUBE HD">
     <title lang="pt">VT - Figueirense x Fluminense</title>
   </programme>
-  <programme start="20200901164000 -0300" stop="20200901190000 -0300" channel="PREMIE CLUBE  SD">
-    <title lang="pt">Botafogo SP x Cuiabá - Ao Vivo</title>
-  </programme>
   <programme start="20200901190000 -0300" stop="20200901201000 -0300" channel="PREMIE CLUBE  SD">
     <title lang="pt">Baú do Esporte</title>
   </programme>
@@ -309,5 +281,41 @@
   </programme>
   <programme start="20200901230000 -0300" stop="20200902000000 -0300" channel="PREMIE CLUBE  SD">
     <title lang="pt">VT - Figueirense x Fluminense</title>
+  </programme>
+  <programme start="20200901191000 -0300" stop="20200901194000 -0300" channel="GLOBO MINAS">
+    <title lang="pt">MG2</title>
+  </programme>
+  <programme start="20200901194000 -0300" stop="20200901203000 -0300" channel="GLOBO MINAS">
+    <title lang="pt">Totalmente Demais</title>
+  </programme>
+  <programme start="20200901203000 -0300" stop="20200901214000 -0300" channel="GLOBO MINAS">
+    <title lang="pt">Jornal Nacional</title>
+  </programme>
+  <programme start="20200901214000 -0300" stop="20200901224500 -0300" channel="GLOBO MINAS">
+    <title lang="pt">Fina Estampa</title>
+  </programme>
+  <programme start="20200901224500 -0300" stop="20200901234500 -0300" channel="GLOBO MINAS">
+    <title lang="pt">Cine Holliúdy</title>
+  </programme>
+  <programme start="20200901234500 -0300" stop="20200902005000 -0300" channel="GLOBO MINAS">
+    <title lang="pt">Tapas &amp; Beijos</title>
+  </programme>
+  <programme start="20200901191000 -0300" stop="20200901194000 -0300" channel="GLOBO SP">
+    <title lang="pt">SP2</title>
+  </programme>
+  <programme start="20200901194000 -0300" stop="20200901203000 -0300" channel="GLOBO SP">
+    <title lang="pt">Totalmente Demais</title>
+  </programme>
+  <programme start="20200901203000 -0300" stop="20200901214000 -0300" channel="GLOBO SP">
+    <title lang="pt">Jornal Nacional</title>
+  </programme>
+  <programme start="20200901214000 -0300" stop="20200901224500 -0300" channel="GLOBO SP">
+    <title lang="pt">Fina Estampa</title>
+  </programme>
+  <programme start="20200901224500 -0300" stop="20200901234500 -0300" channel="GLOBO SP">
+    <title lang="pt">Cine Holliúdy</title>
+  </programme>
+  <programme start="20200901234500 -0300" stop="20200902005000 -0300" channel="GLOBO SP">
+    <title lang="pt">Tapas &amp; Beijos</title>
   </programme>
 </tv>
