@@ -1,0 +1,313 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="ESPN BRASIL  HD">
+    <display-name lang="pt">ESPN BRASIL  HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="ESPN BRASIL  SD">
+    <display-name lang="pt">ESPN BRASIL  SD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="ESPN1  HD">
+    <display-name lang="pt">ESPN1  HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="ESPN1  SD">
+    <display-name lang="pt">ESPN1  SD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="ESPN2  HD">
+    <display-name lang="pt">ESPN2  HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="ESPN2  SD">
+    <display-name lang="pt">ESPN2  SD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="FOX SPORTS  DH">
+    <display-name lang="pt">FOX SPORTS  DH</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="FOX SPORTS  SD">
+    <display-name lang="pt">FOX SPORTS  SD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="FOX SPORTS 2 HD">
+    <display-name lang="pt">FOX SPORTS 2 HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="FOX SPORTS 2  SD">
+    <display-name lang="pt">FOX SPORTS 2  SD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="SPORTSTV  HD">
+    <display-name lang="pt">SPORTSTV  HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="SPORTSTV  SD">
+    <display-name lang="pt">SPORTSTV  SD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="SPORTSTV2  HD">
+    <display-name lang="pt">SPORTSTV2  HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="SPORTSTV2  SD">
+    <display-name lang="pt">SPORTSTV2  SD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="SPORTSTV3  HD">
+    <display-name lang="pt">SPORTSTV3  HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="SPORTSTV3  SD">
+    <display-name lang="pt">SPORTSTV3  SD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="PREMIE CLUBE HD">
+    <display-name lang="pt">PREMIE CLUBE HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="PREMIE CLUBE  SD">
+    <display-name lang="pt">PREMIE CLUBE  SD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="EI PLUIS 1 HD">
+    <display-name lang="pt">EI PLUIS 1 HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="EI PLUIS 2 HD">
+    <display-name lang="pt">EI PLUIS 2 HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="COMBATE">
+    <display-name lang="pt">COMBATE</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="BANDE SPORTS">
+    <display-name lang="pt">BANDE SPORTS</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <programme start="20200901180000 -0300" stop="20200901200000 -0300" channel="ESPN BRASIL  HD">
+    <title lang="pt">Futebol na Veia - Ao Vivo</title>
+  </programme>
+  <programme start="20200901200000 -0300" stop="20200901210000 -0300" channel="ESPN BRASIL  HD">
+    <title lang="pt">Sportscenter - Ao Vivo</title>
+  </programme>
+  <programme start="20200901210000 -0300" stop="20200901220000 -0300" channel="ESPN BRASIL  HD">
+    <title lang="pt">Sportscenter - Ao Vivo</title>
+  </programme>
+  <programme start="20200901220000 -0300" stop="20200901230000 -0300" channel="ESPN BRASIL  HD">
+    <title lang="pt">Bola da Vez: Sylvinho</title>
+  </programme>
+  <programme start="20200901230000 -0300" stop="20200902000000 -0300" channel="ESPN BRASIL  HD">
+    <title lang="pt">Sportscenter</title>
+  </programme>
+  <programme start="20200901180000 -0300" stop="20200901200000 -0300" channel="ESPN BRASIL  SD">
+    <title lang="pt">Futebol na Veia - Ao Vivo</title>
+  </programme>
+  <programme start="20200901200000 -0300" stop="20200901210000 -0300" channel="ESPN BRASIL  SD">
+    <title lang="pt">Sportscenter - Ao Vivo</title>
+  </programme>
+  <programme start="20200901210000 -0300" stop="20200901220000 -0300" channel="ESPN BRASIL  SD">
+    <title lang="pt">Sportscenter - Ao Vivo</title>
+  </programme>
+  <programme start="20200901220000 -0300" stop="20200901230000 -0300" channel="ESPN BRASIL  SD">
+    <title lang="pt">Bola da Vez: Sylvinho</title>
+  </programme>
+  <programme start="20200901230000 -0300" stop="20200902000000 -0300" channel="ESPN BRASIL  SD">
+    <title lang="pt">Sportscenter</title>
+  </programme>
+  <programme start="20200901183000 -0300" stop="20200901210000 -0300" channel="ESPN1  HD">
+    <title lang="pt">NBA: Boston Celtics x Toronto Raptors - Ao Vivo</title>
+  </programme>
+  <programme start="20200901210000 -0300" stop="20200901213000 -0300" channel="ESPN1  HD">
+    <title lang="pt">Sportscenter Abre o Jogo: NBA - Ao Vivo</title>
+  </programme>
+  <programme start="20200901213000 -0300" stop="20200902000000 -0300" channel="ESPN1  HD">
+    <title lang="pt">NBA: Utah Jazz x Denver Nuggets - Ao Vivo</title>
+  </programme>
+  <programme start="20200901183000 -0300" stop="20200901210000 -0300" channel="ESPN1  SD">
+    <title lang="pt">NBA: Boston Celtics x Toronto Raptors - Ao Vivo</title>
+  </programme>
+  <programme start="20200901210000 -0300" stop="20200901213000 -0300" channel="ESPN1  SD">
+    <title lang="pt">Sportscenter Abre o Jogo: NBA - Ao Vivo</title>
+  </programme>
+  <programme start="20200901213000 -0300" stop="20200902000000 -0300" channel="ESPN1  SD">
+    <title lang="pt">NBA: Utah Jazz x Denver Nuggets - Ao Vivo</title>
+  </programme>
+  <programme start="20200901180000 -0300" stop="20200901190000 -0300" channel="ESPN2  HD">
+    <title lang="pt">Tênis: US Open: Primeira Rodada - Ao Vivo</title>
+  </programme>
+  <programme start="20200901190000 -0300" stop="20200901200000 -0300" channel="ESPN2  HD">
+    <title lang="pt">Pelas Quadras do US Open - Ao Vivo</title>
+  </programme>
+  <programme start="20200901200000 -0300" stop="20200902010000 -0300" channel="ESPN2  HD">
+    <title lang="pt">Tênis: US Open: Primeira Rodada - Ao Vivo</title>
+  </programme>
+  <programme start="20200901180000 -0300" stop="20200901190000 -0300" channel="ESPN2  SD">
+    <title lang="pt">Tênis: US Open: Primeira Rodada - Ao Vivo</title>
+  </programme>
+  <programme start="20200901190000 -0300" stop="20200901200000 -0300" channel="ESPN2  SD">
+    <title lang="pt">Pelas Quadras do US Open - Ao Vivo</title>
+  </programme>
+  <programme start="20200901200000 -0300" stop="20200902010000 -0300" channel="ESPN2  SD">
+    <title lang="pt">Tênis: US Open: Primeira Rodada - Ao Vivo</title>
+  </programme>
+  <programme start="20200901180000 -0300" stop="20200901203000 -0300" channel="FOX SPORTS  DH">
+    <title lang="pt">Expediente Futebol - Ao Vivo</title>
+  </programme>
+  <programme start="20200901203000 -0300" stop="20200901220000 -0300" channel="FOX SPORTS  DH">
+    <title lang="pt">Debate Final - Ao Vivo</title>
+  </programme>
+  <programme start="20200901220000 -0300" stop="20200901230000 -0300" channel="FOX SPORTS  DH">
+    <title lang="pt">Bom Dia Fox</title>
+  </programme>
+  <programme start="20200901230000 -0300" stop="20200902014500 -0300" channel="FOX SPORTS  DH">
+    <title lang="pt">Fox Sports Rádio</title>
+  </programme>
+  <programme start="20200901180000 -0300" stop="20200901203000 -0300" channel="FOX SPORTS  SD">
+    <title lang="pt">Expediente Futebol - Ao Vivo</title>
+  </programme>
+  <programme start="20200901203000 -0300" stop="20200901220000 -0300" channel="FOX SPORTS  SD">
+    <title lang="pt">Debate Final - Ao Vivo</title>
+  </programme>
+  <programme start="20200901220000 -0300" stop="20200901230000 -0300" channel="FOX SPORTS  SD">
+    <title lang="pt">Bom Dia Fox</title>
+  </programme>
+  <programme start="20200901230000 -0300" stop="20200902014500 -0300" channel="FOX SPORTS  SD">
+    <title lang="pt">Fox Sports Rádio</title>
+  </programme>
+  <programme start="20200901174500 -0300" stop="20200901184500 -0300" channel="FOX SPORTS 2 HD">
+    <title lang="pt">FOX Nitro</title>
+  </programme>
+  <programme start="20200901184500 -0300" stop="20200901193500 -0300" channel="FOX SPORTS 2 HD">
+    <title lang="pt">WWE NXT</title>
+  </programme>
+  <programme start="20200901193500 -0300" stop="20200901200000 -0300" channel="FOX SPORTS 2 HD">
+    <title lang="pt">Programa Especial: A Gloria Eterna</title>
+  </programme>
+  <programme start="20200901200000 -0300" stop="20200901210000 -0300" channel="FOX SPORTS 2 HD">
+    <title lang="pt">Aqui Com Benja</title>
+  </programme>
+  <programme start="20200901210000 -0300" stop="20200901213000 -0300" channel="FOX SPORTS 2 HD">
+    <title lang="pt">Central Fox de Primeira</title>
+  </programme>
+  <programme start="20200901213000 -0300" stop="20200901231500 -0300" channel="FOX SPORTS 2 HD">
+    <title lang="pt">VT - Palmeiras x Grêmio</title>
+  </programme>
+  <programme start="20200901231500 -0300" stop="20200902000000 -0300" channel="FOX SPORTS 2 HD">
+    <title lang="pt">Comenta Quem Sabe</title>
+  </programme>
+  <programme start="20200901174500 -0300" stop="20200901184500 -0300" channel="FOX SPORTS 2  SD">
+    <title lang="pt">FOX Nitro</title>
+  </programme>
+  <programme start="20200901184500 -0300" stop="20200901193500 -0300" channel="FOX SPORTS 2  SD">
+    <title lang="pt">WWE NXT</title>
+  </programme>
+  <programme start="20200901193500 -0300" stop="20200901200000 -0300" channel="FOX SPORTS 2  SD">
+    <title lang="pt">Programa Especial: A Gloria Eterna</title>
+  </programme>
+  <programme start="20200901200000 -0300" stop="20200901210000 -0300" channel="FOX SPORTS 2  SD">
+    <title lang="pt">Aqui Com Benja</title>
+  </programme>
+  <programme start="20200901210000 -0300" stop="20200901213000 -0300" channel="FOX SPORTS 2  SD">
+    <title lang="pt">Central Fox de Primeira</title>
+  </programme>
+  <programme start="20200901213000 -0300" stop="20200901231500 -0300" channel="FOX SPORTS 2  SD">
+    <title lang="pt">VT - Palmeiras x Grêmio</title>
+  </programme>
+  <programme start="20200901231500 -0300" stop="20200902000000 -0300" channel="FOX SPORTS 2  SD">
+    <title lang="pt">Comenta Quem Sabe</title>
+  </programme>
+  <programme start="20200901174500 -0300" stop="20200901185500 -0300" channel="SPORTSTV  HD">
+    <title lang="pt">Tá na Área - Ao Vivo</title>
+  </programme>
+  <programme start="20200901185500 -0300" stop="20200901211500 -0300" channel="SPORTSTV  HD">
+    <title lang="pt">Paraná x Ponte Preta - Ao Vivo</title>
+  </programme>
+  <programme start="20200901211500 -0300" stop="20200901233000 -0300" channel="SPORTSTV  HD">
+    <title lang="pt">Náutico x Figueirense - Ao Vivo</title>
+  </programme>
+  <programme start="20200901233000 -0300" stop="20200902010000 -0300" channel="SPORTSTV  HD">
+    <title lang="pt">Troca de Passes - Ao Vivo</title>
+  </programme>
+  <programme start="20200901174500 -0300" stop="20200901185500 -0300" channel="SPORTSTV  SD">
+    <title lang="pt">Tá na Área - Ao Vivo</title>
+  </programme>
+  <programme start="20200901185500 -0300" stop="20200901211500 -0300" channel="SPORTSTV  SD">
+    <title lang="pt">Paraná x Ponte Preta - Ao Vivo</title>
+  </programme>
+  <programme start="20200901211500 -0300" stop="20200901233000 -0300" channel="SPORTSTV  SD">
+    <title lang="pt">Náutico x Figueirense - Ao Vivo</title>
+  </programme>
+  <programme start="20200901233000 -0300" stop="20200902010000 -0300" channel="SPORTSTV  SD">
+    <title lang="pt">Troca de Passes - Ao Vivo</title>
+  </programme>
+  <programme start="20200901180000 -0300" stop="20200901200000 -0300" channel="SPORTSTV2  HD">
+    <title lang="pt">Liga Mundial de Vôlei Masculino</title>
+  </programme>
+  <programme start="20200901200000 -0300" stop="20200901220000 -0300" channel="SPORTSTV2  HD">
+    <title lang="pt">Grand Prix de Vôlei Feminino</title>
+  </programme>
+  <programme start="20200901220000 -0300" stop="20200902010000 -0300" channel="SPORTSTV2  HD">
+    <title lang="pt">NBA: Milwaukee Bucks x Miami Heat - Ao Vivo</title>
+  </programme>
+  <programme start="20200901180000 -0300" stop="20200901200000 -0300" channel="SPORTSTV2  SD">
+    <title lang="pt">Liga Mundial de Vôlei Masculino</title>
+  </programme>
+  <programme start="20200901200000 -0300" stop="20200901220000 -0300" channel="SPORTSTV2  SD">
+    <title lang="pt">Grand Prix de Vôlei Feminino</title>
+  </programme>
+  <programme start="20200901220000 -0300" stop="20200902010000 -0300" channel="SPORTSTV2  SD">
+    <title lang="pt">NBA: Milwaukee Bucks x Miami Heat - Ao Vivo</title>
+  </programme>
+  <programme start="20200901180000 -0300" stop="20200901200000 -0300" channel="SPORTSTV3  HD">
+    <title lang="pt">US Open - Ao Vivo</title>
+  </programme>
+  <programme start="20200901200000 -0300" stop="20200901220000 -0300" channel="SPORTSTV3  HD">
+    <title lang="pt">US Open - Ao Vivo</title>
+  </programme>
+  <programme start="20200901220000 -0300" stop="20200902000000 -0300" channel="SPORTSTV3  HD">
+    <title lang="pt">US Open - Ao Vivo</title>
+  </programme>
+  <programme start="20200901180000 -0300" stop="20200901200000 -0300" channel="SPORTSTV3  SD">
+    <title lang="pt">US Open - Ao Vivo</title>
+  </programme>
+  <programme start="20200901200000 -0300" stop="20200901220000 -0300" channel="SPORTSTV3  SD">
+    <title lang="pt">US Open - Ao Vivo</title>
+  </programme>
+  <programme start="20200901220000 -0300" stop="20200902000000 -0300" channel="SPORTSTV3  SD">
+    <title lang="pt">US Open - Ao Vivo</title>
+  </programme>
+  <programme start="20200901164000 -0300" stop="20200901190000 -0300" channel="PREMIE CLUBE HD">
+    <title lang="pt">Botafogo SP x Cuiabá - Ao Vivo</title>
+  </programme>
+  <programme start="20200901190000 -0300" stop="20200901201000 -0300" channel="PREMIE CLUBE HD">
+    <title lang="pt">Baú do Esporte</title>
+  </programme>
+  <programme start="20200901201000 -0300" stop="20200901223000 -0300" channel="PREMIE CLUBE HD">
+    <title lang="pt">Chapecoense x Juventude - Ao Vivo</title>
+  </programme>
+  <programme start="20200901223000 -0300" stop="20200901230000 -0300" channel="PREMIE CLUBE HD">
+    <title lang="pt">Baú do Esporte</title>
+  </programme>
+  <programme start="20200901230000 -0300" stop="20200902000000 -0300" channel="PREMIE CLUBE HD">
+    <title lang="pt">VT - Figueirense x Fluminense</title>
+  </programme>
+  <programme start="20200901164000 -0300" stop="20200901190000 -0300" channel="PREMIE CLUBE  SD">
+    <title lang="pt">Botafogo SP x Cuiabá - Ao Vivo</title>
+  </programme>
+  <programme start="20200901190000 -0300" stop="20200901201000 -0300" channel="PREMIE CLUBE  SD">
+    <title lang="pt">Baú do Esporte</title>
+  </programme>
+  <programme start="20200901201000 -0300" stop="20200901223000 -0300" channel="PREMIE CLUBE  SD">
+    <title lang="pt">Chapecoense x Juventude - Ao Vivo</title>
+  </programme>
+  <programme start="20200901223000 -0300" stop="20200901230000 -0300" channel="PREMIE CLUBE  SD">
+    <title lang="pt">Baú do Esporte</title>
+  </programme>
+  <programme start="20200901230000 -0300" stop="20200902000000 -0300" channel="PREMIE CLUBE  SD">
+    <title lang="pt">VT - Figueirense x Fluminense</title>
+  </programme>
+</tv>
